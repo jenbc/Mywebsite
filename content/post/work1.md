@@ -1,11 +1,11 @@
----
++++
 showonlyimage = true
 draft = false
 image = "img/portfolio/a4-paper.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Data Science: What and Why"
 weight = 0
----
++++
 
 My understanding of Data Science is that it is the organizing and analysis of data (big data) into actionable information.
 <!--more-->

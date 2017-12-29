@@ -1,4 +1,4 @@
----
++++
 image = "img/portfolio/railroad-forest1.jpg"
 showonlyimage = true
 draft = false
@@ -6,7 +6,7 @@ date = "2016-11-05T19:53:42+05:30"
 title = "Histogram"
 categories = [ "photography" ]
 weight = 5
----
++++
 
 According to Dictionary.com, a histogram is a graph of a frequency distribution in which rectangles with bases on the horizontal axis are given widths equal to the class intervals and heights equal to the corresponding frequencies.
 <!--more-->
